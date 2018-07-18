@@ -1,0 +1,6 @@
+
+build:
+  image: python:latest
+
+run:
+  cmd: run run1.py
